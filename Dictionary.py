@@ -13,6 +13,7 @@ def main():
     print(Student['Age'])
     Student.clear()
     print(Student,type(Student))
+    print("Hello Finxters")
     
 
 
